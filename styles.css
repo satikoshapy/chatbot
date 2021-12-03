@@ -1,0 +1,30 @@
+body {
+    background-color: rgba(117, 238, 238, 0.523);
+}
+div {
+    font-size: large;
+}
+.bot {
+    background-color: rgba(227, 217, 226, 0.633);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 8px;
+}
+.fa-leaf {
+    color: rgba(227, 217, 226, 0.633);
+    font-size: 900;
+    padding: 8px;
+}
+.user {
+    background-color: rgb(130, 205, 202);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    padding: 8px;
+}
+.fa-user {
+    color: rgb(130, 205, 202);
+    font-size: 900;
+    padding: 8px;
+}
